@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+header img {
+    width: 100px;
+
+}
+
+h1 {
+    font-size: 48px;
+    font-family: 'Lilita One', cursive;
+    color: #E96479;
+    text-decoration: underline;
+}
+
+h2 {
+    font-family: arial;
+    font-size: auto;
+}
+
+main img {
+    width: 400px;
+
+}
+
+main .link {
+    background-color: #7db9b6;
+    text-decoration: none;
+    border: 5px solid blue;
+    padding: 15px;
+}
+
+/* CSS phones*/
+@media only screen and (max-width: 600px) {
+
+}
+
+/* CSS tablets*/
+@media only screen and (min-width: 600px) {
+
+}
+
+/* CSS laptops */
+@media only screen and (min-width: 992px) {
+    
+}
